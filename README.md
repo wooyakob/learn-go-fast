@@ -58,3 +58,5 @@ go fmt auto fixes whitespace to auto format
 go.fmt
 
 to format program
+
+run go vet to scan for code erros
