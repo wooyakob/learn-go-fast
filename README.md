@@ -47,7 +47,7 @@ and go tidy
 
 to make changes to file, never directly
 
-go build 
+go build
 
 creates an executable
 
@@ -60,3 +60,15 @@ go.fmt
 to format program
 
 run go vet to scan for code erros
+
+makefiles 
+
+modern software, repeatable automatable builds run by anyone, anywhere
+
+default goal - target run when none specified
+
+ensuring formatting
+
+and vetting
+
+before a dev triggers a build
