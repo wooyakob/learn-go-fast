@@ -61,7 +61,7 @@ to format program
 
 run go vet to scan for code erros
 
-makefiles 
+makefiles
 
 modern software, repeatable automatable builds run by anyone, anywhere
 
@@ -72,3 +72,13 @@ ensuring formatting
 and vetting
 
 before a dev triggers a build
+
+predeclared types and declarations:
+
+write your programs in a way that makes your intentions clear
+
+predeclared types
+
+- zero value - default zero value to any variable that is declared but not assigned a value
+- literals - explicitly specified number, char or string
+-
